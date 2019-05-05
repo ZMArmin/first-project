@@ -1,0 +1,13 @@
+.form-container {
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.form-container h1 {
+    line-height: 100px;
+}
+
+.form-container .text-info {
+    margin-left: 20px;
+}
